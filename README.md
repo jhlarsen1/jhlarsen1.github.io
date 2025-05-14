@@ -8,5 +8,5 @@ This is my very first website hosted on GitHub Pages.
 
 # Project
 
-(I Woke Up In My Dream World)[Iwokeupinmydreamworld.html]
+(I Woke Up In My Dream World)[SugarCube_MyDreamWorld_Final.html]
 Documentation at: [https://github.com/jhlarsen1/CSC-134]
