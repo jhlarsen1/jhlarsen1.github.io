@@ -10,5 +10,5 @@ Hello! I’m learning how to build websites using GitHub Pages.
 - This is my first website!
 
 ## My Projects
-- [Dream World](https://jhlarsen1.github.io/IWokeupinmydreamworld.html)
+- [Dream World](https://jhlarsen1.github.io/SugarCube_MyDreamWorld_Final.html)
 - [Project 2](https://github.com/yourusername/project2)
